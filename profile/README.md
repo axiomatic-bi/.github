@@ -20,8 +20,8 @@ My focus is analytics engineering: ingestion, transformation, semantic modelling
 
 ## Proof of Work
 
-- [Axiomatic BI Showcase](https://axiomatic-bi.github.io/axiomatic-bi-showcase/)
-- [Fake Store Example](https://axiomatic-bi.github.io/axiomatic-bi-showcase/case-studies/fake-store/)
+- [Fake Store Example](https://github.com/axiomatic-bi/axiomatic-bi-examples/tree/main/projects/fake-store/powerbi)
+- [Financial Independence Forecaster Web App](https://axiomatic-bi.github.io/financial-independence-forecaster)
 - [Engine Repository](https://github.com/axiomatic-bi/axiomatic-engine)
 - [Architecture Decision Records](https://github.com/axiomatic-bi/axiomatic-engine/tree/main/docs/adr)
 
@@ -32,5 +32,5 @@ DuckDB / MotherDuck, dbt, dlt, Python, SQL, Power BI, Astro, GitHub Pages.
 ## Contact
 
 For project enquiries:
-- [Contact page](https://axiomatic-bi.github.io/axiomatic-bi-showcase/contact/)
+- Email: [timothy.amison+axiomatic-bi@gmail.com](timothy.amison+axiomatic-bi@gmail.com)
 - LinkedIn: [Timothy Amison](https://www.linkedin.com/in/timothy-amison/)
